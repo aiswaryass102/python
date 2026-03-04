@@ -1,0 +1,6 @@
+pencil
+pen
+books
+
+eraser
+ruler
